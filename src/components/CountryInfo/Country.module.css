@@ -1,0 +1,12 @@
+.wrapper {
+display: flex;
+justify-content:center
+}
+.headerName{
+    font-weight: bold;
+    text-align: center;
+    font-size: 22px;
+}
+.descr {
+    font-weight: bold;
+}
